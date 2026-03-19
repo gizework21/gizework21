@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **Flight, tour and Hotel booking web app**
 
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **MERN Stack, Flutter**
 
 - 📫 How to reach me **gizeworkmarye16@gmail.com**
